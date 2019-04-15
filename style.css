@@ -1,0 +1,49 @@
+.talampaya{
+  background: url('assets/talampaya.jpg') no-repeat bottom;
+  background-size: 150%;
+  background-attachment: fixed;
+  height: 100vh;
+  margin: 0;
+}
+.colibri{
+  background: url('assets/colibri2.jpg') no-repeat center;
+  background-size: 175%;
+  height: 100vh;
+  margin: 0;
+}
+.novios{
+  background: url('assets/novios.jpg') no-repeat center;
+  background-size: 150%;
+  height: 75vh;
+  margin: 0;
+}
+.title{
+  font-family: 'Dancing Script', cursive;
+  font-size: 5rem;
+}
+.sub-title{
+  font-family: 'Dancing Script', cursive;
+  font-size: 3rem;
+}
+.quote{
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.5rem;
+}
+.text-left{
+  text-align: left;
+}
+.text-center{
+  text-align: center;
+}
+.text-right{
+  text-align: right;
+}
+.text-light{
+  color: lightgrey;
+}
+.text-dark{
+  color: darkslategrey;
+}
+.text-pink{
+  color: magenta;
+}
