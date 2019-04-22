@@ -6,7 +6,10 @@
   padding-top: 55vh;
 }
 .colibri{
-  background: url('colibri.jpg') no-repeat center fixed;
+  background: url('colibri.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
   background-size: 135%;
   height: 100%;
   padding-top: 1.5em;
