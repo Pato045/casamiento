@@ -1,64 +1,25 @@
-.principal{
+.novios{
   background: url('main.jpg') no-repeat center;
   background-size: 150%;
   background-attachment: fixed;
   height: 100vh;
-  padding-top: 50vh;
+  padding-top: 55vh;
 }
-.padding{
-  padding: 2vh;
-}
-.novios{
+.colibri{
   background: url('colibri.jpg') no-repeat center;
-  background-size: 120%;
+  background-size: 135%;
   background-attachment: fixed;
   height: 75vh;
-  padding: 2vh;
 }
 .titulo{
   font-family: 'Dancing Script', cursive;
-  font-size: 5rem;
+  font-size: 25vw;
 }
-.quote{
+.poema{
   font-family: 'Dancing Script', cursive;
-  font-size: 1.5rem;
+  font-size: 6vw;
 }
-.text-left{
-  text-align: left;
-}
-.text-center{
-  text-align: center;
-}
-.text-right{
-  text-align: right;
-}
-.text-light{
-  color: crimson;
-}
-.text-dark{
-  color: rgb(82, 82, 82);
-}
-.text-red{
-  color: red;
-}
-.text-green{
-  color: green;
-}
-.text-white{
-  color: rgb(255, 255, 255);
+.corintios{
   font-family: 'Dancing Script', cursive;
-  font-size: 1.5rem;
-}
-.text-teal{
-  color: teal;
-}
-.text-blue{
-  color: darkblue;
-}
-.text-yellow{
-  color: yellow;
-}
-.link{
-  color: rgb(82, 82, 82);
-  text-decoration: unset;
+  font-size: 10vw;
 }
