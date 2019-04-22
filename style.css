@@ -1,21 +1,30 @@
-.talampaya{
-  background: url('assets/talampaya01.jpg') no-repeat bottom;
+.container{
+  padding: 0;
+}
+.main{
+  background: url('main.jpg') no-repeat center;
   background-size: 150%;
   background-attachment: fixed;
   height: 100vh;
   margin: 0;
+  padding-top: 50vh;
+}
+.padding{
+  padding: 2vh;
 }
 .colibri{
-  background: url('assets/colibri2.jpg') no-repeat center;
+  background: white;
   background-size: 175%;
   height: 100vh;
   margin: 0;
 }
 .novios{
-  background: url('assets/novios.jpg') no-repeat center;
-  background-size: 150%;
+  background: url('colibri.jpg') no-repeat center;
+  background-size: 120%;
+  background-attachment: fixed;
   height: 75vh;
   margin: 0;
+  padding: 2vh;
 }
 .title{
   font-family: 'Dancing Script', cursive;
@@ -39,11 +48,29 @@
   text-align: right;
 }
 .text-light{
-  color: lightgrey;
+  color: crimson;
 }
 .text-dark{
-  color: darkslategrey;
+  color: rgb(82, 82, 82);
 }
-.text-pink{
-  color: magenta;
+.text-red{
+  color: red;
+}
+.text-green{
+  color: green;
+}
+.text-white{
+  color: rgb(255, 255, 255);
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.6rem;
+}
+.text-teal{
+  color: teal;
+}
+.text-blue{
+  color: darkblue;
+}
+.link{
+  color: rgb(82, 82, 82);
+  text-decoration: unset;
 }
