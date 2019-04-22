@@ -9,6 +9,7 @@
   background: url('colibri.jpg') no-repeat center fixed;
   background-size: 135%;
   height: 75vh;
+  padding-top: 1em;
 }
 .titulo{
   font-family: 'Dancing Script', cursive;
